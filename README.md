@@ -4,7 +4,7 @@
     - npm init -y
 * instalando TS em modo de desenvolvedor
     - npm install typescript -D
-    - ou intalar globalmente (typescript)[https://www.typescriptlang.org/download]
+    - ou instalar globalmente (typescript)[https://www.typescriptlang.org/download]
 
     * Rodar/traduzir tipagem, especificidade do typescript para js 
      - npx tsc diretorio/arquivo.ts (criará um arquivo cópia do ts para js, esse arquivo é será executad pelo node);
